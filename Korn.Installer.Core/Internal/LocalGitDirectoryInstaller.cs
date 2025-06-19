@@ -5,6 +5,7 @@ using Korn.Interface;
 using System.Linq;
 using System.IO;
 using Korn.Utils;
+using Korn.Modules.WinApi;
 
 class LocalGitDirectoryInstaller
 {            
